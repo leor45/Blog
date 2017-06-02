@@ -1,0 +1,26 @@
+body{
+	background-color: #53A8AE;
+}
+
+#cuadro{
+	background-color: #FFFFFF;
+	height: 270px;
+}
+
+#cuadro2{
+	background-color: #FFFFFF;
+	height: 170px;
+}
+
+#cuadro3{
+	background-color:  #C2EBD4;
+	height: 95px;
+}	
+
+#cuadro4{
+	background-color:  #C2EBD4;
+	height: 75px;
+}	
+textarea{
+	resize: none;
+}
